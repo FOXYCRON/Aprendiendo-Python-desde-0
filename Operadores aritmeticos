@@ -1,0 +1,13 @@
+                     Simbolo           Descripcion               Ejemplo
+                        +                 Suma                  a + b = 15
+                        -                 Resta                 b - a = 5
+                        *             Multiplicación            a * b = 50
+                        /                División               a / b = 2
+                        %            Devuelve el resto          b % a = 0
+                                      de la división
+                                         (Modulo)
+                        **          Realiza exponencial         b ** a = 10000
+                                        (Exponente)
+                        //          Devuelve el entero          b // a = 2
+                                      de la división
+                                      (División baja)
