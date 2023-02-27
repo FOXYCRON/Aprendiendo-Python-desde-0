@@ -18,4 +18,7 @@ Resultado8 = False | False # Devolver Falso
 Resultado9 = not True # Devolver Falso
 Resultado10 = not False # Devolver True
 
-print(Resultado)
+
+type(15.5) # Devuelve el tipo de dato
+
+print(type)
